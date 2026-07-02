@@ -1,0 +1,17 @@
+{
+  "startNumber": 25,
+  "addValue": 8,
+  "subValue": 5,
+  "pathName": "серый путь",
+  "pathColorHex": "77686B",
+  "path": [
+    {"id": 1, "word": "СОЕДИНИЛИ", "type": "add"},
+    {"id": 2, "word": "СЪЕЛИ", "type": "sub"},
+    {"id": 3, "word": "УВЕЛИЧИЛИ", "type": "add"},
+    {"id": 7, "word": "ПРИВЕЗЛИ", "type": "add"},
+    {"id": 4, "word": "УМЕНЬШИЛИ", "type": "sub"},
+    {"id": 5, "word": "ОТРЕЗАЛИ", "type": "sub"},
+    {"id": 8, "word": "ДОКУПИЛИ", "type": "add"},
+    {"id": 9, "word": "ДОЛИЛИ", "type": "add"}
+  ]
+}

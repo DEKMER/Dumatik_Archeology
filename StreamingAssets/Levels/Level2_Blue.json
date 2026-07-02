@@ -1,0 +1,13 @@
+{
+  "startNumber": 10,
+  "addValue": 8,
+  "subValue": 7,
+  "pathName": "синий путь",
+  "pathColorHex": "4D7195",
+  "path": [
+    {"id": 0, "word": "ДОБАВИЛИ", "type": "add"},
+    {"id": 6, "word": "ОТЛИЛИ", "type": "sub"},
+    {"id": 8, "word": "ДОКУПИЛИ", "type": "add"},
+    {"id": 9, "word": "ДОЛИЛИ", "type": "add"}
+  ]
+}
